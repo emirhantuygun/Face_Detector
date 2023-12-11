@@ -2,7 +2,7 @@
 
  <h2>Usage :</h2>
  <ul>
-  <li><b>Detecting the faces in an Image</b> Use Command :</li>
+  <li>Use This Command :</li>
   
       python detect.py --image <image_name>
 </ul>
