@@ -6,5 +6,5 @@
   
       python detect.py --image <image_name>
 </ul>
-  <p><b>Note: </b>The Image should be present in same folder where all the files are present</p> 
+  <p><b>Note: </b>The Image should be present in same folder where all the files are present.</p> 
 <ul>
