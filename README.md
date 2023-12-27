@@ -1,7 +1,7 @@
 # Face Detector
 
- <h2>Usage :</h2>
- <ul>
+<h2>Usage</h2>
+<ul>
   <li>Use This Command :</li>
   
       python detect.py --image <image_name>
