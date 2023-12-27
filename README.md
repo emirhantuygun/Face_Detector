@@ -8,3 +8,8 @@
 </ul>
   <p><b>Note: </b>The Image should be present in same folder where all the files are present.</p> 
 <ul>
+<br>
+<br>
+<h2>
+<img href="https://github.com/emirhantuygun/Face_Detector/blob/main/Example/ss1.png">
+</h2>
