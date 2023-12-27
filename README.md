@@ -1,5 +1,6 @@
 # Face Detector
-
+A face detector that I developed using Python's OpenCV library.
+<br>
 <h2>Usage</h2>
 
 Use This Command:
