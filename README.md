@@ -10,6 +10,6 @@
 <ul>
 <br>
 <br>
-<h2>
+<h2>Screenshots</h2>
 <img src="https://github.com/emirhantuygun/Face_Detector/blob/main/Example/ss1.png">
-</h2>
+
