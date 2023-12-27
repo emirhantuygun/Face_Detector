@@ -11,5 +11,5 @@
 <br>
 <br>
 <h2>
-<img href="https://github.com/emirhantuygun/Face_Detector/blob/main/Example/ss1.png">
+<img href="https://github.com/emirhantuygun/Face_Detector/blob/main/Example/ss1.png" alt="">
 </h2>
